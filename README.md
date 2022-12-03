@@ -2,7 +2,8 @@
 
 Student at AGH University of Science and Technology
 ### Visit: https://ocycak.github.io/
-
+🍸 https://mcocktail.netlify.app/
+🧠 https://sudosolve.netlify.app/
 
 <!--
 **Ocycak/Ocycak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
