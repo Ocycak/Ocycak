@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 Student at AGH University of Science and Technology
+### Visit: https://ocycak.github.io/
+
 
 <!--
 **Ocycak/Ocycak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Visit: https://ocycak.github.io/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
