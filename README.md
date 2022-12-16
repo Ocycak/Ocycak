@@ -5,6 +5,8 @@ Student at AGH University of Science and Technology
 🍸 https://mcocktail.netlify.app/
 🧠 https://sudosolve.netlify.app/
 
+🍴https://github.com/Ocycak/sudoku
+
 <!--
 **Ocycak/Ocycak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
